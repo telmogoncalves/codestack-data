@@ -27,5 +27,6 @@
 1. For `stack`, check [SimpleIcons](https://simpleicons.org) for the correct name
 1. For `setup` add entries such as browsers and machine
 1. Raise a Pull Request with the title `Adding @<YOUR HANDLER>`, we'll review it ASAP
+1. Application takes ~5 minutes to update, be patient 🙂
 
 > The `stack` name needs to match the name on **SimpleIcons**, it's case sensitive.
