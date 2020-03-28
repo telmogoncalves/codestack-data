@@ -406,6 +406,19 @@
     ]
   },
   {
+    "username": "simoncaule",
+    "stack": [
+      "PHP",
+      "Symfony",
+      "Nuxt.js",
+      "MongoDB",
+      "Redis",
+      "MySQL",
+      "Elasticsearch",
+      "RabbitMQ"
+    ]
+  },
+  {
     "username": "callam_woolgar",
     "stack": [
       "JavaScript",
