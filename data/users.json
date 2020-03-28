@@ -586,6 +586,21 @@
     ]
   },
   {
+    "username": "NickPoorman",
+    "stack": [
+      "Go",
+      "Apache Arrow",
+      "Scala",
+      "Cassandra",
+      "DynamoDB",
+      "Dgraph",
+      "Parquet",
+      "EC2",
+      "ECS",
+      "Kinesis"
+    ]
+  },
+  {
     "username": "agamacastro",
     "stack": [
       "Angular",
