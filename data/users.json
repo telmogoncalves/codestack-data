@@ -120,6 +120,15 @@
     ]
   },
   {
+    "username": "pikarestiv",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
     "username": "Bjoysijo",
     "stack": [
       "Rails"
