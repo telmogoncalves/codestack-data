@@ -65,19 +65,19 @@
       "React",
       "Angular",
       "MySQL",
-      "Express.js",
+      "Express",
       "Sails.js",
       "ArangoDB",
       "Redis",
-      "Postgres",
+      "PostgreSQL",
       "MongoDB",
-      "Vanilla javascript",
+      "JavaScript",
       "Android"
     ],
     "setup": [
       "Google Chrome",
       "Windows",
-      "Linux subsystem"
+      "Linux"
     ]
   },
   {
