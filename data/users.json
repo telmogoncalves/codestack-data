@@ -60,6 +60,27 @@
     ]
   },
   {
+    "username": "Ramyatrouny",
+    "stack": [
+      "React",
+      "Angular",
+      "MySQL",
+      "Express.js",
+      "Sails.js",
+      "ArangoDB",
+      "Redis",
+      "Postgres",
+      "MongoDB",
+      "Vanilla javascript",
+      "Android"
+    ],
+    "setup": [
+      "Google Chrome",
+      "Windows",
+      "Linux subsystem"
+    ]
+  },
+  {
     "username": "KhareApurv",
     "stack": [
       "MongoDB",
