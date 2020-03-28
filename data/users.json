@@ -273,6 +273,24 @@
     ]
   },
   {
+    "username": "Sudo_overflow",
+    "stack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Node.js",
+      "Express",
+      "Firebase",
+      "MySQL",
+      "MongoDB"
+    ],
+    "setup": [
+      "Google Chrome",
+      "Visual Studio Code",
+      "Apple"
+    ]
+  },
+  {
     "username": "Dimitri41378593",
     "stack": [
       "React",
