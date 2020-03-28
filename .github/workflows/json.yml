@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Validate JSON
-        uses: docker://orrosenblatt/validate-json-action:latest
-        env:
-          INPUT_SCHEMA: ./schema.json
-          INPUT_JSONS: ./data/users.json
+        uses: OrRosenblatt/validate-json-action@0.1.0
+        with:
+          # One or more relative file paths under the repository (seperated by comma) of the JSON files to validate with the schema provided.
+          json: ./data/users.json
