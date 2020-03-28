@@ -1,14 +1,12 @@
-name: Validate JSON
+name: Validate JSONs
 
-on:
-  pull_request:
-    branches: [ master ]
+on: [pull_request]
 
 jobs:
-  build:
+  verify-json-validation:
     runs-on: ubuntu-latest
-    
     steps:
-    - name: Validate JSON
-      uses: OrRosenblatt/validate-json-action@0.1.0
-
+      - name: Validate JSON
+        uses: OrRosenblatt/validate-json-action@0.1.0
+        env:
+          INPUT_JSONS: ./data/users.json
