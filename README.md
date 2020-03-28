@@ -23,10 +23,13 @@
       ]
    }
    ```
-1. For `username`, this is your Twitter handler
-1. For `stack`, check [SimpleIcons](https://simpleicons.org) for the correct name
-1. For `setup` add entries such as browsers and machine
+
+1. | Field        | Description           | Type  |
+   | ------------- | ------------- | ----- |
+   | `username`      | Your Twitter Handler | `string` |
+   | `stack`      | List of Stacks      |   `array` |
+   | `setup` | Browser, Machine, etc      |  `array` |
+
+   > For `stack`, check [SimpleIcons](https://simpleicons.org) for the correct name, it needs to match the name on **SimpleIcons**, it's case sensitive.
 1. Raise a Pull Request with the title `Adding @<YOUR HANDLER>`, we'll review it ASAP
 1. Application takes ~5 minutes to update, be patient 🙂
-
-> The `stack` name needs to match the name on **SimpleIcons**, it's case sensitive.
