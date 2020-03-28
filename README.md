@@ -27,3 +27,5 @@
 1. For `stack`, check [SimpleIcons](https://simpleicons.org) for the correct name
 1. For `setup` add entries such as browsers and machine
 1. Raise a Pull Request, we'll review it ASAP
+
+> The `stack` name needs to match the name on **SimpleIcons**, it's case sensitive.
