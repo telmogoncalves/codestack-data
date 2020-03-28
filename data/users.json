@@ -91,6 +91,22 @@
     ]
   },
   {
+    "username": "_ibrahimturan",
+    "stack": [
+      "Vue",
+      "Vuetify",
+      "MySQL",
+      "Laravel",
+    ],
+    "setup": [
+      "Google Chrome",
+      "Visual Studio Code",
+      "Linux",
+      "NGINX",
+      "Bash"
+    ]
+  },
+  {
     "username": "Lonnyrichard",
     "stack": [
       "Vue.js",
