@@ -14,9 +14,18 @@
     ]
   },
   {
+    "username": "manishpamnani12",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "Angular",
+      "Node.js"
+    ]
+  },
+  {
     "username": "ajaykarwal",
     "stack": [
-      "HTML5"
+      "HTML5",
       "Sass",
       "JavaScript",
       "React",
