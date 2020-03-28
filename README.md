@@ -33,6 +33,7 @@
    > For `stack`, check [SimpleIcons](https://simpleicons.org) for the correct name, it needs to match the name on **SimpleIcons**, it's case sensitive.
 1. Raise a Pull Request with the title `Adding @<YOUR HANDLER>`, we'll review it ASAP
 1. Application takes ~5 minutes to update, be patient 🙂
+1. View your entry at [codestack.now.sh](https://codestack.now.sh/)
 
 ---
 
