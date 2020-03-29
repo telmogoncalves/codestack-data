@@ -41,6 +41,20 @@
     ]
   },
   {
+    "username":"Jkkr1996",
+    "stack":[
+      "React/Angular/Vue",
+      "AWS API Gateway",
+      "AWS Lambda",
+      "AWS DynampDB"
+    ],
+    "setup":[
+      "Google Chrome",
+      "Visual Studio Code",
+      "AWS Account"
+    ]
+  },
+  {
     "username": "manishpamnani12",
     "stack": [
       "MongoDB",
