@@ -500,6 +500,27 @@
     ]
   },
   {
+    "username": "thealiilman",
+    "stack": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Redux",
+      "GraphQL",
+      "Ruby",
+      "Rails",
+      "HTML5",
+      "CSS3",
+      "Sass"
+    ],
+    "setup": [
+      "Google Chrome",
+      "DuckDuckGo",
+      "Apple",
+      "Windows"
+    ]
+  },
+  {
     "username": "whytecode",
     "stack": [
       "MongoDB",
