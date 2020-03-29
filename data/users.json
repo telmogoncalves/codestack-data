@@ -4,6 +4,8 @@
     "stack": [
       "HTML5",
       "CSS3",
+      "Sass",
+      "styled-components",
       "JavaScript",
       "React",
       "Rails",
