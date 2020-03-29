@@ -41,9 +41,11 @@
     ]
   },
   {
-    "username":"Jkkr1996",
-    "stack":[
-      "React/Angular/Vue",
+    "username": "Jkkr1996",
+    "stack": [
+      "React",
+      "Angular",
+      "Vue.js",
       "AWS API Gateway",
       "AWS Lambda",
       "AWS DynampDB"
