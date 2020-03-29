@@ -2,15 +2,23 @@
   {
     "username": "telmo",
     "stack": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
       "React",
+      "Rails",
+      "Node.js",
       "GraphQL",
       "MySQL",
-      "Rails",
+      "PosgreSQL"
       "Next.js"
+      "Zeit",
+      "Gatsby"
     ],
     "setup": [
       "Google Chrome",
       "Visual Studio Code",
+      "Sublime Text",
       "Apple"
     ]
   },
