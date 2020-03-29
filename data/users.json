@@ -196,6 +196,21 @@
     ]
   },
   {
+    "username": "DRFR0ST",
+    "stack": [
+      "TypeScript",
+      "React",
+      "React Native",
+      "Flutter",
+      "Node.js"
+    ],
+    "setup": [
+      "Google Chrome",
+      "Visual Studio Code",
+      "Ubuntu"
+    ]
+  },
+  {
     "username": "ChathulaC",
     "stack": [
       "Node.js",
