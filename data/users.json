@@ -734,6 +734,14 @@
       "jQuery",
       "WordPress",
       "MySQL"
+    ],
+    "setup": [
+        "Brave",
+        "Visual Studio Code",
+        "Windows",
+        "XAMPP",
+        "Adobe Photoshop",
+        "Adobe Illustrator"
     ]
   },
   {
