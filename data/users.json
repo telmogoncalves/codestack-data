@@ -48,7 +48,7 @@
       "AWS Lambda",
       "AWS DynamoDB"
     ],
-    "setup":[
+    "setup": [
       "Google Chrome",
       "Visual Studio Code",
       "AWS Account"
@@ -736,12 +736,12 @@
       "MySQL"
     ],
     "setup": [
-        "Brave",
-        "Visual Studio Code",
-        "Windows",
-        "XAMPP",
-        "Adobe Photoshop",
-        "Adobe Illustrator"
+      "Brave",
+      "Visual Studio Code",
+      "Windows",
+      "XAMPP",
+      "Adobe Photoshop",
+      "Adobe Illustrator"
     ]
   },
   {
@@ -871,6 +871,36 @@
       "Express",
       "React",
       "Node.js"
+    ]
+  },
+  {
+    "username": "nawok",
+    "stack": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "NPM",
+      "Firebase",
+      ".NET",
+      "Microsoft SQL Server",
+      "NuGet",
+      "Next.js",
+      "Zeit",
+      "Netlify",
+      "Swift",
+      "Docker"
+    ],
+    "setup": [
+      "Google Chrome",
+      "Firefox",
+      "Safari",
+      "Visual Studio",
+      "Visual Studio Code",
+      "Apple",
+      "Microsoft",
+      "Lenovo"
     ]
   }
 ]
