@@ -479,19 +479,6 @@
     ]
   },
   {
-    "username": "basedusama",
-    "stack": [
-      "Python",
-      "Django",
-      "Vue.js",
-    ],
-    "setup": [
-      "Arch Linux",
-      "Vim",
-      "Brave"
-    ]
-  },
-  {
     "username": "BrooksForsyth",
     "stack": [
       "Ionic",
@@ -833,6 +820,19 @@
       "TypeScript",
       "React",
       "Amazon AWS"
+    ]
+  },
+  {
+    "username": "basedusama",
+    "stack": [
+      "Python",
+      "Django",
+      "Vue.js",
+    ],
+    "setup": [
+      "Arch Linux",
+      "Vim",
+      "Brave"
     ]
   },
   {
