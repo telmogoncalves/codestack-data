@@ -778,7 +778,23 @@
     "username": "crstnmac",
     "stack": [
       "Vue.js",
-      "Django"
+      "Django",
+      "Tailwind CSS",
+      "Vuetify",
+      "Gridsome",
+      "MongoDB",
+      "Celery",
+      "Python",
+      "JavaScript",
+      "Node.js"
+    ],
+    "setup":[
+      "Mozilla Firefox",
+      "Visual Studio Code",
+      "Google Chrome",
+      "Linux Mint",
+      "Dell",
+      "GNU"
     ]
   },
   {
