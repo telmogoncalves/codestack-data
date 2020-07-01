@@ -55,6 +55,24 @@
     ]
   },
   {
+    "username": "radnerus93",
+    "stack": [
+      "Javascript",
+      "Angular",
+      "React",
+      "Node.js",
+      "React Native",
+      "Java",
+      "Python",
+      "Postgres"
+    ],
+    "setup": [
+      "Google Chrome",
+      "Visual Studio Code",
+      "Mac"
+    ]
+  },
+  {
     "username": "manishpamnani12",
     "stack": [
       "MongoDB",
