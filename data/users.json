@@ -478,12 +478,14 @@
       "Next.js",
       "Node.js",
       "Express",
+      "GraphQL",
       "Strapi",
       "Java"
     ],
     "setup": [
       "Windows",
-      "Mozilla Firefox"
+      "Mozilla Firefox",
+      "Visual Studio Code"
     ]
   },
   {
