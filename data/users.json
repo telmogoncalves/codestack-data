@@ -834,6 +834,11 @@
     "WordPress",
     "MongoDB",
     "Express"
+  ],
+  "setup": [
+    "Apple",
+    "Windows",
+    "Visual Studio Code"
   ]
 },
   {
