@@ -133,6 +133,24 @@
     ]
   },
   {
+    "username": "dephraiim",
+    "stack": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Vue.js",
+      "TypeScript",
+      "Go",
+      "Python"
+    ],
+    "setup": [
+      "Google Chrome",
+      "Visual Studio Code",
+      "Linux",
+      "Windows"
+    ]
+  },
+  {
     "username": "_ibrahimturan",
     "stack": [
       "Vue.js",
