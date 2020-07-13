@@ -843,6 +843,24 @@
     ]
   },
   {
+  "username": "codewithghazi",
+  "stack": [
+    "React",
+    "React Native",
+    "Node.js",
+    "Angular",
+    "Python",
+    "WordPress",
+    "MongoDB",
+    "Express"
+  ],
+  "setup": [
+    "Apple",
+    "Windows",
+    "Visual Studio Code"
+  ]
+},
+  {
     "username": "sam_kurdz",
     "stack": [
       "MongoDB",
